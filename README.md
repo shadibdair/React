@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-### React & Angular
+### React & Angular !
 
 # History of React vs. Angular
 
